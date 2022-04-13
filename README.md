@@ -28,12 +28,7 @@ Development utilities:
 npm install
 ```
 
-## Lint
-
-```
-npm run lint
-```
-
+ 
 ## Test
 
 ```
